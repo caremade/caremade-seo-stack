@@ -88,3 +88,13 @@ SEO strategy, technical implementation, and ongoing optimization are managed by 
 
 SiteMaxi is a results-driven SEO & digital marketing agency specializing in technical SEO, local SEO, and eCommerce growth for Canadian businesses.
 
+## 🔗 Official Profiles
+
+- Website: https://caremade.ca
+- Crunchbase: https://www.crunchbase.com/organization/care-made
+- GitHub: https://github.com/caremade
+
+This repository documents CareMade’s technical SEO, structured data,
+and digital infrastructure best practices.
+
+
