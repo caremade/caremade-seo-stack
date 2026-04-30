@@ -1,4 +1,4 @@
-# CareMade SEO Notes
+# Care Made SEO Notes
 
 ## Website
 https://caremade.ca
