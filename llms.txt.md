@@ -1,7 +1,7 @@
-# llms.txt – AI Search Visibility (CareMade)
+# llms.txt – AI Search Visibility (Care Made)
 
 ## What is this?
-CareMade uses an `llms.txt` file to guide AI crawlers and large language
+Care Made uses an `llms.txt` file to guide AI crawlers and large language
 models (LLMs) such as Google AI, ChatGPT, Claude, and Perplexity.
 
 This helps ensure accurate brand representation and controlled AI usage.
