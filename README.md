@@ -1,4 +1,4 @@
- # CareMade SEO Stack – Technical SEO & Digital Infrastructure
+ # Care Made SEO Stack – Technical SEO & Digital Infrastructure
 
 CareMade is a trusted Canadian medical equipment and mobility aid supplier serving customers across Canada.  
 This repository documents the **SEO stack, technical optimizations, and digital infrastructure** that support CareMade’s online visibility, performance, and compliance.
@@ -8,7 +8,7 @@ This repository documents the **SEO stack, technical optimizations, and digital 
 
 ---
 
-## 🏥 About CareMade
+## 🏥 About Care Made
 
 CareMade specializes in high-quality medical equipment and home healthcare products, including:
 
